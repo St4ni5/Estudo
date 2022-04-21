@@ -6,3 +6,5 @@ const appDiv = document.getElementById('app');
 appDiv.innerHTML = `<h1>JS Starter</h1>`;
 
 console.log('Bem Vindo');
+
+//Apagou tudo que eu fiz
